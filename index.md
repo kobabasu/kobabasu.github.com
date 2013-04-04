@@ -1,7 +1,6 @@
 ---
 layout: page
 title: kobalog
-tagline: 10分後の打ち合わせの前に…
 ---
 {% include JB/setup %}
 

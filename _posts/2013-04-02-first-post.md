@@ -1,10 +1,9 @@
 ---
 layout: post
-cateogy: "other"
-tagline: "tagline"
-tags : [雑記,intro, jekyll]
+cateogy: other
+tags : [雑記]
 ---
 {% include JB/setup %}
 
-## first post
+# 初投稿
 誕生日ということでブログをスタート
