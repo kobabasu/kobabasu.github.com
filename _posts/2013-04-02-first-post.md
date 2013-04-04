@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 初投稿
-tagline: 
 cateogy: other
 tags : [雑記]
 ---
